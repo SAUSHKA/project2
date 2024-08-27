@@ -30,3 +30,37 @@ footer{
     background-color: rosybrown;
     font-size:20px;
 }
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    background-color: cornflowerblue;
+    color:rebeccapurple;
+}
+
+main p{
+    background-color: rosybrown;
+    font-size: 30px;
+}
+
+main img{
+    width: 150px;
+    height: 125px;
+}
+
+.sushi img{
+    width:200px;
+}
+
+.free img{
+    width: 125px;
+}
+
+.kola img{
+    width: 110px;
+}
+
+main{
+    font-size: 20px;
+
+}
