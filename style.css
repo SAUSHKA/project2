@@ -1,0 +1,32 @@
+header h1{
+    text-align: center;
+    font-size: 80px;
+    background-color: cornflowerblue;
+    color:rebeccapurple;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+nav{
+   margin: 20px 0px;
+   text-align: center;
+   padding: 20px 0px;
+   background-color: rosybrown;
+}
+
+nav a{
+    text-decoration: none;
+    color: rebeccapurple;
+    background-color: #F5F5DC;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 40px;
+    margin:10px;
+}
+
+footer{
+    background-color: rosybrown;
+    font-size:20px;
+}
